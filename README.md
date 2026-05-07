@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dr-sanchez
-Demo web para Estudio Juridico Dr. Sánchez — diseñada por eterlab.
+# Estudio Juridico Dr. Sánchez
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
